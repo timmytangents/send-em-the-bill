@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/send-em-the-bill/static/css/main.92c8d4eb.css",
+    "main.css": "/send-em-the-bill/static/css/main.7d85c086.css",
     "main.js": "/send-em-the-bill/static/js/main.ab0ea1d9.js",
     "static/js/453.b2ec11e0.chunk.js": "/send-em-the-bill/static/js/453.b2ec11e0.chunk.js",
     "index.html": "/send-em-the-bill/index.html",
-    "main.92c8d4eb.css.map": "/send-em-the-bill/static/css/main.92c8d4eb.css.map",
+    "main.7d85c086.css.map": "/send-em-the-bill/static/css/main.7d85c086.css.map",
     "main.ab0ea1d9.js.map": "/send-em-the-bill/static/js/main.ab0ea1d9.js.map",
     "453.b2ec11e0.chunk.js.map": "/send-em-the-bill/static/js/453.b2ec11e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c8d4eb.css",
+    "static/css/main.7d85c086.css",
     "static/js/main.ab0ea1d9.js"
   ]
 }
